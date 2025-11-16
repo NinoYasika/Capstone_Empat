@@ -1,0 +1,14 @@
+ultralytics
+ultralytics==8.1.22
+torch>=2.0.0
+opencv-python
+opencv-python-headless
+numpy
+pillow
+matplotlib
+streamlit
+streamlit-webrtc
+torchvision
+tqdm
+pandas
+albumentations
