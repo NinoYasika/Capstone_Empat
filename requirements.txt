@@ -1,7 +1,5 @@
-ultralytics
-ultralytics==8.1.22
+ultralytics==8.2.103
 torch>=2.0.0
-opencv-python
 opencv-python-headless
 numpy
 pillow
