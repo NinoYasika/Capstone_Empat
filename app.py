@@ -17,7 +17,7 @@ st.write("Upload gambar lalu model akan melakukan deteksi objek.")
 # =========================
 @st.cache_resource
 def load_model():
-    model_path = "best.pt"   # Ganti ke yolo11n.pt jika pakai model bawaan
+    model_path = "yolo11n.pt"   # Ganti ke yolo11n.pt jika pakai model bawaan
     model = YOLO(model_path)
     return model
 
